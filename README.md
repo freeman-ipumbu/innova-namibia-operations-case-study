@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://innova-namibia-operations.freeman-ipumbu634390.chatgpt.site/"><strong>Explore the current build ↗</strong></a>
+  <a href="https://innova-namibia-operations.freeman-ipumbu-aac.workers.dev/"><strong>Explore the live website ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://innovaptyltd.com/">Innova's original website</a>
   &nbsp;·&nbsp;
@@ -86,6 +86,6 @@ The interface includes phone and desktop navigation, readable forms, semantic co
 **Client:** Innova Investments CC, Namibia  
 **Identity refinement, creative direction, experience design and development:** [SolarSpin Technologies](https://solarspin-namibia.xyz/)  
 **Original site and source material:** [Innova Investments CC](https://innovaptyltd.com/); the earlier site credits VR IT Solutions  
-**Current build:** [Innova operations website](https://innova-namibia-operations.freeman-ipumbu634390.chatgpt.site/)
+**Live website:** [Innova operations website](https://innova-namibia-operations.freeman-ipumbu-aac.workers.dev/)
 
 © 2026 Innova Investments CC and SolarSpin Technologies. This public case study is a portfolio record. It grants no right to reuse Innova's identity, imagery, writing or experience as a commercial template.
