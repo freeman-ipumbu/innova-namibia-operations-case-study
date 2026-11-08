@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://innova-namibia-operations.freeman-ipumbu-aac.workers.dev/"><strong>Explore the live website ↗</strong></a>
+  <a href="https://innova-namibia.pages.dev/"><strong>Explore the live website ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://innovaptyltd.com/">Innova's original website</a>
   &nbsp;·&nbsp;
@@ -79,13 +79,13 @@ The Google integration area is prepared for Places, Calendar, Drive, Gmail and A
 
 ## Built for use
 
-The interface includes phone and desktop navigation, readable forms, semantic controls, visible focus states and reduced-motion handling. Public requests and private operations are backed by server-side records. Sensitive business data and the production implementation are outside this repository; [the publication boundary](PUBLICATION_BOUNDARY.md) explains what is shared here.
+The interface includes phone and desktop navigation, readable forms, semantic controls, visible focus states and reduced-motion handling. The live site runs on Cloudflare Pages with server-side requests and private operations backed by Cloudflare D1. Sensitive business data and the production implementation are outside this repository; [the publication boundary](PUBLICATION_BOUNDARY.md) explains what is shared here.
 
 ## Credits
 
 **Client:** Innova Investments CC, Namibia  
 **Identity refinement, creative direction, experience design and development:** [SolarSpin Technologies](https://solarspin-namibia.xyz/)  
 **Original site and source material:** [Innova Investments CC](https://innovaptyltd.com/); the earlier site credits VR IT Solutions  
-**Live website:** [Innova operations website](https://innova-namibia-operations.freeman-ipumbu-aac.workers.dev/)
+**Live website:** [Innova operations website](https://innova-namibia.pages.dev/)
 
 © 2026 Innova Investments CC and SolarSpin Technologies. This public case study is a portfolio record. It grants no right to reuse Innova's identity, imagery, writing or experience as a commercial template.
